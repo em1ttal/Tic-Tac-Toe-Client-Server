@@ -1,5 +1,10 @@
 ## Software Distribuït 2024
 
+Tic-Tac-Toe game made in java using Client - Server. 
+ - JDK 19 or more is necessary and Maven must be installed. 
+ - Game must be executed in terminal.
+ - Steps to execute are in the README.md of package Practica1
+
 | Professor    | Mail            | Classes                                                               |
 |--------------|-----------------|-----------------------------------------------------------------------|
 | Eloi Puertas | epuertas@ub.edu | Teoria, dimecres de 15 a 17h. |
